@@ -26,6 +26,6 @@ CineSecureHub es un proyecto de encriptación y desencriptación de datos sensib
 ![App Screenshot](https://i.ibb.co/XsC1Mqb/payload-Login.png)
 
 - Desencriptación de la respuesta por parte del servidor
-![App Screenshot](https://i.ibb.co/n7TpVY9/informacion-User.png)
+![App Screenshot]([https://i.ibb.co/n7TpVY9/informacion-User.png](https://i.ibb.co/n7TpVY9/informacion-User.png))
 ## Nota
 La key de **encriptación** y el **iv** no estan puestas, ya que no pienso publicarlas.
