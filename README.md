@@ -1,11 +1,9 @@
 
 ![Logo](http://camarachp.cl/wp-content/uploads/2016/07/Logo-Cineplanet-1000x1000px-copia.png)
 
-
 # CineSecureHub
 
 CineSecureHub es un proyecto de encriptación y desencriptación de datos sensibles utilizando la lógica de una aplicación web para proteger la confidencialidad de la información. Este proyecto utiliza el algoritmo de encriptación AES (Advanced Encryption Standard) en modo CBC (Cipher Block Chaining) para garantizar la seguridad de los datos transmitidos.
-
 
 ## Características
 - Encriptación de datos sensibles utilizando AES en modo CBC.
@@ -29,7 +27,5 @@ CineSecureHub es un proyecto de encriptación y desencriptación de datos sensib
 
 - Desencriptación de la respuesta por parte del servidor
 ![App Screenshot](https://i.ibb.co/n7TpVY9/informacion-User.png)
-
-
 ## Nota
 La key de **encriptación** y el **iv** no estan puestas, ya que no pienso publicarlas.
