@@ -1,5 +1,5 @@
 
-![Logo](http://camarachp.cl/wp-content/uploads/2016/07/Logo-Cineplanet-1000x1000px-copia.png)
+![Logo](https://www.mallpaseoross.cl/wp-content/uploads/2018/02/Logo-Cineplanet-1000x1000px-copia.png)
 
 
 # CineSecureHub
